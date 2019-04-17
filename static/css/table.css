@@ -1,0 +1,55 @@
+.bg_bar {
+    background: rgb(36, 147, 240);
+    padding-bottom: 1px;
+    padding-top: 1px;
+}
+
+.bu_bar {
+    background:  rgb(36, 147, 240);
+    width: 24%;
+    color: #FFFFFF;
+    outline: none;
+}
+
+.ul_bar {
+    width: 24%;
+    margin-left: -2px;
+    padding: 0px;
+    border: 0px;
+    border-radius: 0px;
+}
+
+.ul_bar li {
+    background: rgb(36, 175, 240);
+    text-align: center;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    width: 100%;
+    margin: 0px;
+}
+
+.ul_bar li a {
+    color: #FFFFFF;
+    width: 100%;
+}
+
+.ul_bar li a:hover {
+    color: #DDDDDD;
+    background: rgb(58, 127, 220);
+    width: 100%;
+}
+
+.ul_page {
+    list-style: none;
+}
+
+.ul_page li a {
+    color: #17a2b8;
+}
+.this_type a{
+    line-height: 30px;
+    color: #DDDDDD;
+    background: rgb(58, 127, 220);
+    width: 100%;
+    
+}
